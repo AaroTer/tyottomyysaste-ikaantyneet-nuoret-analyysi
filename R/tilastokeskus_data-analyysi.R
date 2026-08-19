@@ -61,7 +61,3 @@ ggplot(
   geom_point() +
   geom_smooth(method = "lm") + 
   theme_bw()
-
-# Seuraavaksi tutki"Miten nuorten ja ikääntyneiden työttömyys on 
-# kehittynyt Suomessa vuosina 2009–2025, ja onko niiden kehityksen välillä yhteyttä?"
-# tee ensin pivot_longer
