@@ -28,9 +28,6 @@ names(df)
 df <- df %>% 
   slice(-c(7, 8))
 
-df <- df %>% 
-  filter(ikä %in% c("15 - 24", "55 - 64"))
-
 # seuraavaksi tutkitaan nuorten ja ikääntyneiden työttömyysasteiden yhteyttä
 # suodatan omiksi taulukoikseen ikäryhmät 15-24v ja 55-64v
 
