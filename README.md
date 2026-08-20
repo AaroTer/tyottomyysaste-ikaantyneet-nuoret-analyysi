@@ -1,4 +1,4 @@
-# tyottomyysaste-ikaantyneet-nuoret-analyysi
+# Työttömyysaste -- vertailu ikääntyneiden ja nuorten välillä
 Tässä pienessä projektissa käytetään R tilastokeskuksen "Työttömyysaste ikäryhmän mukaan 2009-2025" -datan puhdistamiseen ja analysointiin.
 
 Tämän koodin tarkoitus on siivota ensin Tilastokeskuksen data "Työttömyysaste ikäryhmän mukaan 2009-2025" ja tarkastella, onko nuorten (15 - 24-vuotiaiden) ja ikääntyneiden (55 - 64-vuotiaiden) työttömyysasteiden välillä yhteyttä.
@@ -11,3 +11,5 @@ Analyysin perusteella 15–24-vuotiaiden ja 55–64-vuotiaiden työttömyysastei
 
 
 Projektissa käytettiin tekoälyä ohjelmoinnin tukena. Koodi on pääosin itse tuottamaani, ja ymmärrän sen vaiheet.
+
+Kansiosta "R" löydät R-datan, jota analyysissa käytettiin. Kansiosta "data" löydät alkuperäisen Tilastokeskuksen datan. Kansioista "plots" löydät PNG-tiedostona pistekaavion.
